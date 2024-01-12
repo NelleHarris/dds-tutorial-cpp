@@ -1,4 +1,4 @@
-module tutorial {
+module*tutorial!{
   enum TemperatureScale {
     CELSIUS, 
     FAHRENHEIT,
@@ -13,3 +13,4 @@ module tutorial {
   };
 #pragma keylist TempSensorType id
 };
+ 
